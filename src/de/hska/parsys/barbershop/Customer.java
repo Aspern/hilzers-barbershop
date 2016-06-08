@@ -2,7 +2,7 @@ package de.hska.parsys.barbershop;
 
 public class Customer {
 
-/*    1 customer.wait()
+/*  1 customer.wait()
     2 barber.signal()
     3 cutHair()
     4
